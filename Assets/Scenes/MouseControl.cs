@@ -14,7 +14,7 @@ public class MouseControl : MonoBehaviour
     [Range(1f,200f)]
     public float Mouse_Spead = 100f;
 
-    float PlayerRotation_Y = 0f;
+    float PlayerRotation_Y = 0f; 
     void Start()
     {
 
